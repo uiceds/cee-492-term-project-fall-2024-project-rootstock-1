@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/tree/gh-pages) branch hosts the contents of this directory at <https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/>.
-The permalink for this webpage version is <https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/19373d2e0af76bf64cb02a30895fa452e2a7062c/>.
+The permalink for this webpage version is <https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/44edb5721d1199939d2bd4325b9373c60e0f3b26/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://uiceds.github.io/cee-492-term-project-fall-2024-project-rootstock-1/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`19373d2e0af76bf64cb02a30895fa452e2a7062c`](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/commit/19373d2e0af76bf64cb02a30895fa452e2a7062c).
+[`44edb5721d1199939d2bd4325b9373c60e0f3b26`](https://github.com/uiceds/cee-492-term-project-fall-2024-project-rootstock-1/commit/44edb5721d1199939d2bd4325b9373c60e0f3b26).
